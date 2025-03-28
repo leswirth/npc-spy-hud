@@ -363,16 +363,16 @@
 
 		"max_size"	"19"
 
-		"6v6_gap"	"4"
+		"6v6_gap"	"1"
 		"12v12_gap"	"1"
 
 		"team1_grow_dir" "west"
-		"team1_base_x"	"c-40"
-		"team1_max_expand"	"250"
+		"team1_base_x"	"c-30"
+		"team1_max_expand"	"220"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c40"
-		"team2_max_expand"	"250"
+		"team2_base_x"	"c30"
+		"team2_max_expand"	"220"
 
 		"playerpanels_kv"
 		{
@@ -412,10 +412,10 @@
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				"ypos"			"12"
 				"zpos"			"3"
-				"wide"			"19"
-				"tall"			"19"
+				"wide"			"16"
+				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"

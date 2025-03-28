@@ -12,19 +12,19 @@
 		"wide"	"f0"
 		"tall"	"480"
 	}
-	"HudWeaponAmmo"
+	HudWeaponAmmo
 	{
-		"fieldName"	"HudWeaponAmmo"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"	"r101" [$WIN32]
-		"xpos_minmode"	"r85" [$WIN32]
-		"ypos"	"r65" [$WIN32]
-		"ypos_minmode"	"r36" [$WIN32]
-		"xpos"	"r131" [$X360]
-		"ypos"	"r77" [$X360]
-		"wide"	"194"
-		"tall"	"145"
+		"fieldName" "HudWeaponAmmo"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"	[$WIN32]
+		"xpos_minmode"	"0"	[$WIN32]
+		"ypos"	"0"	[$WIN32]
+		"ypos_minmode"	"0"	[$WIN32]
+		"xpos"	"r131"	[$X360]
+		"ypos"	"r77"	[$X360]
+		"wide"	"f0"
+		"tall"	"f0"
 	}
 	"HudObjectiveStatus"
 	{
@@ -86,9 +86,9 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"	"r80" [$WIN32]
-		"xpos_minmode"	"r52" [$WIN32]
+		"xpos_minmode"	"r450" [$WIN32]
 		"ypos"	"r21" [$WIN32]
-		"ypos_minmode"	"r40" [$WIN32]
+		"ypos_minmode"	"r160" [$WIN32]
 		"xpos"	"r112" [$X360]
 		"ypos"	"r45" [$X360]
 		"zpos"	"1"
@@ -377,7 +377,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"PaintBackgroundType"	"2"
-		"IconColor"	"Hostage_Yellow"
+		"IconColor"	"Yellow"
 	}
 	"HudFlashlight"
 	{
@@ -683,7 +683,7 @@
 	}
 	"HudDeathNotice"
 	{
-//		"ypos" 		"45"
+		"ypos" 		"45"
 //		"xpos"		"225"
 		"TeamBlue"	"78 119 182 255"
 		"TeamRed"	"207 73 50 255"
@@ -933,9 +933,9 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"	"r162" [$WIN32]
-		"xpos_minmode"	"r110" [$WIN32]
+		"xpos_minmode"	"r450" [$WIN32]
 		"ypos"	"r52" [$WIN32]
-		"ypos_minmode"	"r32" [$WIN32]
+		"ypos_minmode"	"r62" [$WIN32]
 		"xpos"	"r194" [$X360]
 		"ypos"	"r74" [$X360]
 		"wide"	"100"

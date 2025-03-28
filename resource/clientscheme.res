@@ -374,6 +374,81 @@
 	}
 	"Fonts"
 	{
+				////////////////////////////////////////////////////////////////////////////////////////////
+		//////////////////////////////////////// MY FONT :) ////////////////////////////////////////
+		////////////////////////////////////////////////////////////////////////////////////////////
+		"SoundBook8"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook12"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook18"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"18"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook24"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook32"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"32"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook42"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"42"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook56"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"56"
+				"antialias"	"1"
+			}
+		}
+		"SoundBook72"
+		{
+			"1"
+			{
+				"name"		"SoundBook"
+				"tall"		"72"
+				"antialias"	"1"
+			}
+		}
 		"Default"
 		{
 			"1"
@@ -2896,6 +2971,9 @@
 			}
 		}
 	}
+
+
+
 	"Borders"
 	{
 		"NoBorder"
@@ -5270,6 +5348,9 @@
 			}
 		}
 	}
+////////////////////////////////////////////////////   CUSTOM FONT FILES    ////////////////////////////////////////////////////
+////////////////////////////////////////////////////  						////////////////////////////////////////////////////
+//////////////////////////////////////////////////// 						////////////////////////////////////////////////////
 	"CustomFontFiles"
 	{
 		"1"	"resource/tf.ttf"
@@ -5399,5 +5480,10 @@
 		"15"	"resource/linux_fonts/LiberationSans-Bold.ttf"
 		"16"	"resource/linux_fonts/LiberationMono-Regular.ttf"
 		"17"	"resource/linux_fonts/FiraSans-Regular.ttf"
+		"18"
+		{
+			"font"	"resource/fonts/SoundBook.ttf"
+			"name"	"SoundBook"
+		}
 	}
 }
