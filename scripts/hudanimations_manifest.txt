@@ -1,0 +1,12 @@
+"hudanimations_manifest"
+{
+	"file"	"scripts/hudanimations_deafult.txt"
+	"file"	"scripts/hudanimations_sammyhud-sf2024-master.txt"
+	"file"	"scripts/hudanimations_srshud-scope.txt"
+	"file"	"scripts/hudanimations_technohud.txt"
+	"file"	"scripts/hudanimations_m0rehud.txt"
+	"file"	"scripts/hudanimations_optive.txt"
+	"file"	"scripts/hudanimations.txt"
+	"file"	"scripts/hudanimations_custom.txt"
+	"file"	"scripts/hudanimations_tf.txt"
+}
